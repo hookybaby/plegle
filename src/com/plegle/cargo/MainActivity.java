@@ -80,7 +80,7 @@ public class MainActivity extends FragmentActivity {
         public int getCount() {
             return 3;
         }
-
+        //test ugit
         @Override
         public CharSequence getPageTitle(int position) {
             switch (position) {
